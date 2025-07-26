@@ -1,4 +1,4 @@
-module ai-code-reviewer
+module github.com/wangkebin/ai-code-reviewer
 
 go 1.24.0
 
